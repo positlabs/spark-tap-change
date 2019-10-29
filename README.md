@@ -1,4 +1,4 @@
-## How to use tap to change things in Spark AR
+## How to tap to change in Spark AR
 
 [Tutorial on YouTube](https://www.youtube.com/watch?v=Lx2ImQ_MMWE)
 
